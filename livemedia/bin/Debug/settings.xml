@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medias>
+  <Radios>
+    <radio>
+      <ad>Show Radyo</ad>
+      <url>mms://84.16.235.90/ShowRadyo</url>
+    </radio>
+    <radio>
+      <ad></ad>
+      <url></url>
+    </radio>
+  </Radios>
+  <TVS>
+    <tv>
+      <ad>Kanal 24</ad>
+      <url>http://mn-l.mncdn.com:1935/kanal24/kanal243/iptvdelisi.m3u8</url>
+    </tv>
+    <tv>
+      <ad>Kent TV</ad>
+      <url>http://yayin3.canlitv.com:1935/live/kanal38/iptvdelisi.m3u8</url>
+    </tv>
+    <tv>
+      <ad>Skyturk</ad>
+      <url>http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8</url>
+    </tv>
+	<tv>
+      <ad>Yasin TV</ad>
+      <url>http://sr1.netmedya.org:1935/asutv/live.sdp/iptvdelisi.m3u8</url>
+    </tv>
+  </TVS>
+</Medias>
